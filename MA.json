@@ -1,0 +1,2109 @@
+[
+    {
+        "state_id": "MA",
+        "city_ascii": "Pepperell",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Pepperell"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Raynham Center",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Raynham Center"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Baldwinville",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Baldwinville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Woods Hole",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Woods Hole"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Upton",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Upton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Sudbury",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "North Sudbury"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Arlington",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Arlington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Tyngsboro",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Tyngsboro"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Devens",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Devens"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "White Horse Beach",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "White Horse Beach"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Walpole",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Walpole"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Barre",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Barre"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Amherst",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "North Amherst"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Sturbridge",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Sturbridge"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Minot",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Minot"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Boxford",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Boxford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Brookfield",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Brookfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Shelburne Falls",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "Shelburne Falls"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Springfield",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "West Springfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Milford",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Milford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Sandwich",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Sandwich"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Westport",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "South Westport"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Lakeville",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Lakeville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "White Island Shores",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "White Island Shores"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hull",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Hull"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Falmouth",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Falmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Marlborough",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Marlborough"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Ocean Grove",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Ocean Grove"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Belchertown",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Belchertown"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Seconsett Island",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Seconsett Island"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Athol",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Athol"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Brookline",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Brookline"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Quincy",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Quincy"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Westborough",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Westborough"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Hanover",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "West Hanover"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Eastham",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "North Eastham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Yarmouth Port",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Yarmouth Port"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Shirley",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Shirley"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Monomoscoy Island",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Monomoscoy Island"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Glenridge",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Glenridge"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Chicopee",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Chicopee"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Chelmsford",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "North Chelmsford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Liberty Plain",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Liberty Plain"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Holland",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Holland"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Marshfield Hills",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Marshfield Hills"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Beechwood",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Beechwood"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Petersham",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Petersham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lexington",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Lexington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Swampscott",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Swampscott"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Dedham",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Dedham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Bellingham",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Bellingham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Northfield",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "Northfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Buzzards Bay",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Buzzards Bay"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Webster",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Webster"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Waltham",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Waltham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Medford",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Medford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Gloucester",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Gloucester"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Provincetown",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Provincetown"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Boston",
+        "county_name": "Suffolk",
+        "state_name": "Massachusetts",
+        "city": "Boston"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Yarmouth",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "West Yarmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Southville",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Southville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Duxbury",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Duxbury"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Topsfield",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Topsfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Stoneham",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Stoneham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Danvers",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Danvers"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Holbrook",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Holbrook"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Groton",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Groton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Belmont",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Belmont"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Andover",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Andover"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Turners Falls",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "Turners Falls"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Popponesset Island",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Popponesset Island"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Haverhill",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Haverhill"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hayden Row",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Hayden Row"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Rockport",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Rockport"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Falmouth",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "North Falmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Wareham",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "West Wareham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Milton",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Milton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Dennis",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "West Dennis"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Warren",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Warren"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Newton",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Newton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Walpole",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "East Walpole"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Winchester",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Winchester"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Longmeadow",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Longmeadow"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Standish",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Standish"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Ocean Bluff",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Ocean Bluff"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Bridgewater",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Bridgewater"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Highland Lake",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Highland Lake"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Onset",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Onset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Pine Rest",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Pine Rest"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Williamstown",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Williamstown"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Brookfield",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "West Brookfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Burlington",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Burlington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Ayer",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Ayer"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Orange",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "Orange"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Somerset",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Somerset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Reading",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Reading"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Townsend",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Townsend"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Seabrook",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Seabrook"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Great Barrington",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Great Barrington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Yarmouth",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "South Yarmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Bondsville",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Bondsville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lee",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Lee"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Pittsfield",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Pittsfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Dartmouth",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "South Dartmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Boxford",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "West Boxford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Everett",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Everett"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Sagamore",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Sagamore"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Deerfield",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "South Deerfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Easthampton",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Easthampton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Green Harbor",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Green Harbor"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Salem",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Salem"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hyannis",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Hyannis"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Brewster",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Brewster"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Cochituate",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Cochituate"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Ware",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Ware"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Brockton",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Brockton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Vineyard Haven",
+        "county_name": "Dukes",
+        "state_name": "Massachusetts",
+        "city": "Vineyard Haven"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Pigeon Cove",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Pigeon Cove"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Granby",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Granby"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Barnstable",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Barnstable"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Manchester-by-the-Sea",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Manchester-by-the-Sea"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Bliss Corner",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Bliss Corner"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Harwich Port",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Harwich Port"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Russell",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Russell"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Accord",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Accord"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Adams",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "North Adams"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Acton",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "South Acton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Watertown",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Watertown"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lynnfield",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Lynnfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Cheshire",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Cheshire"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Chester",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Chester"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Littleton Common",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Littleton Common"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Dennis Port",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Dennis Port"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Acton",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "West Acton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Westfield",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Westfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Cohasset",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "North Cohasset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Spencer",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Spencer"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Marshfield",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Marshfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Walpole",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "South Walpole"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Dennis",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "South Dennis"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Cambridge",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Cambridge"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Clinton",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Clinton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Housatonic",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Housatonic"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Cotuit",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Cotuit"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Brookfield",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "North Brookfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Somerville",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Somerville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "New Seabury",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "New Seabury"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Northampton",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Northampton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hatfield",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Hatfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Ashburnham",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "South Ashburnham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Methuen",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Methuen"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Holyoke",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Holyoke"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Silver Lake",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Silver Lake"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Pembroke",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Pembroke"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Brookville",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Brookville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Framingham",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Framingham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hanover Center",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Hanover Center"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Huntington",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Huntington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Wellesley",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Wellesley"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Orleans",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Orleans"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Essex",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Essex"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lenox",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Lenox"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Forestdale",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Forestdale"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Sharon",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Sharon"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Amherst",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "South Amherst"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Pine Lake",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Pine Lake"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Foxborough",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Foxborough"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Wamesit",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Wamesit"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Shawsheen Village",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Shawsheen Village"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Newburyport",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Newburyport"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Attleboro",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "North Attleboro"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Chatham",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Chatham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Ipswich",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Ipswich"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Harwich",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "East Harwich"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Agawam",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Agawam"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Marshfield Center",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Marshfield Center"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Rexhame",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Rexhame"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Marstons Mills",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Marstons Mills"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Fitchburg",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Fitchburg"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Scituate",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Scituate"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Deerfield",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "Deerfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lawrence",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Lawrence"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Fayville",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Fayville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Nahant",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Nahant"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Revere",
+        "county_name": "Suffolk",
+        "state_name": "Massachusetts",
+        "city": "Revere"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Abington",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Abington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Brookfield",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "East Brookfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lunenburg",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Lunenburg"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Rowley",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Rowley"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hanson",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Hanson"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Saugus",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Saugus"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Dover",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Dover"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Bourne",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Bourne"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Needham",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Needham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Truro",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "North Truro"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Greenbush",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Greenbush"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "New Bedford",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "New Bedford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Adams",
+        "county_name": "Berkshire",
+        "state_name": "Massachusetts",
+        "city": "Adams"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Falmouth",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "East Falmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Wilbraham",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Wilbraham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Plymouth",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Plymouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Falmouth",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "West Falmouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Wilmington",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "North Wilmington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Franklin",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Franklin"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Edgartown",
+        "county_name": "Dukes",
+        "state_name": "Massachusetts",
+        "city": "Edgartown"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Beverly",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Beverly"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Rutland",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Rutland"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Scituate",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Scituate"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Woburn",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Woburn"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Chelsea",
+        "county_name": "Suffolk",
+        "state_name": "Massachusetts",
+        "city": "Chelsea"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Siasconset",
+        "county_name": "Nantucket",
+        "state_name": "Massachusetts",
+        "city": "Siasconset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Bellingham",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "North Bellingham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Dennis",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "East Dennis"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Woodville",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Woodville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Sandwich",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "East Sandwich"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hingham",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Hingham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Hanover",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Hanover"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Humarock",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Humarock"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Worcester",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Worcester"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Egypt",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Egypt"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Pocasset",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Pocasset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Assinippi",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Assinippi"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Caryville",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Caryville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Chatham",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "West Chatham"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Melrose",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Melrose"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Centerville",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Centerville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Forge Village",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Forge Village"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Nutting Lake",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Nutting Lake"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hopedale",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Hopedale"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Popponesset",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Popponesset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Nabnasset",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Nabnasset"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Maynard",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Maynard"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Islington",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Islington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Medway",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "West Medway"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Monument Beach",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Monument Beach"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hopkinton",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Hopkinton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Hudson",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Hudson"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Kingston",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Kingston"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Shore Acres",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Shore Acres"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Peabody",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Peabody"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Rockville",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Rockville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Millers Falls",
+        "county_name": "Franklin",
+        "state_name": "Massachusetts",
+        "city": "Millers Falls"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Northborough",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Northborough"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Springfield",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Springfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Norwood",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Norwood"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lowell",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Lowell"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Winchendon",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Winchendon"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Leominster",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Leominster"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Marshfield",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Marshfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Harding",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Harding"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Brant Rock",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Brant Rock"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Gardner",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Gardner"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Smith Mills",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Smith Mills"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Fiskdale",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Fiskdale"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Chelmsford",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "South Chelmsford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Ballardvale",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Ballardvale"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Oxford",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Oxford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Weweantic",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Weweantic"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Westport",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "North Westport"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Lancaster",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "South Lancaster"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Malden",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Malden"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Whitinsville",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Whitinsville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Lynn",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Lynn"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Douglas",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "East Douglas"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Tewksbury",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "North Tewksbury"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Attleboro",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Attleboro"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Abington",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "North Abington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Wareham Center",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Wareham Center"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Still River",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Still River"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Wilmington",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Wilmington"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Medfield",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Medfield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Wakefield",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Wakefield"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Plymouth",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Plymouth"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Amherst Center",
+        "county_name": "Hampshire",
+        "state_name": "Massachusetts",
+        "city": "Amherst Center"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "River Pines",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "River Pines"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Mashpee Neck",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Mashpee Neck"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Black Rock",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Black Rock"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Osterville",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Osterville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Madaket",
+        "county_name": "Nantucket",
+        "state_name": "Massachusetts",
+        "city": "Madaket"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Blandford",
+        "county_name": "Hampden",
+        "state_name": "Massachusetts",
+        "city": "Blandford"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Barnstable",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "West Barnstable"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Seekonk",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "North Seekonk"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Fall River",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Fall River"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Taunton",
+        "county_name": "Bristol",
+        "state_name": "Massachusetts",
+        "city": "Taunton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Randolph",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Randolph"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Gleasondale",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Gleasondale"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Marblehead",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Marblehead"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Teaticket",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Teaticket"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Upton",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "West Upton"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Graniteville",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Graniteville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "South Duxbury",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "South Duxbury"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Kent Park",
+        "county_name": "Plymouth",
+        "state_name": "Massachusetts",
+        "city": "Kent Park"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Cordaville",
+        "county_name": "Worcester",
+        "state_name": "Massachusetts",
+        "city": "Cordaville"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Nantucket",
+        "county_name": "Nantucket",
+        "state_name": "Massachusetts",
+        "city": "Nantucket"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Salisbury",
+        "county_name": "Essex",
+        "state_name": "Massachusetts",
+        "city": "Salisbury"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Pinehurst",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "Pinehurst"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Dennis",
+        "county_name": "Barnstable",
+        "state_name": "Massachusetts",
+        "city": "Dennis"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "East Pepperell",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "East Pepperell"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "West Concord",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "West Concord"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "Clicquot",
+        "county_name": "Norfolk",
+        "state_name": "Massachusetts",
+        "city": "Clicquot"
+    },
+    {
+        "state_id": "MA",
+        "city_ascii": "North Billerica",
+        "county_name": "Middlesex",
+        "state_name": "Massachusetts",
+        "city": "North Billerica"
+    }
+]
