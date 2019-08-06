@@ -1,0 +1,302 @@
+﻿city,city_ascii,state_id,state_name,county_name
+Pepperell,Pepperell,MA,Massachusetts,Middlesex
+Raynham Center,Raynham Center,MA,Massachusetts,Bristol
+Baldwinville,Baldwinville,MA,Massachusetts,Worcester
+Woods Hole,Woods Hole,MA,Massachusetts,Barnstable
+Upton,Upton,MA,Massachusetts,Worcester
+North Sudbury,North Sudbury,MA,Massachusetts,Middlesex
+Arlington,Arlington,MA,Massachusetts,Middlesex
+Tyngsboro,Tyngsboro,MA,Massachusetts,Middlesex
+Devens,Devens,MA,Massachusetts,Worcester
+White Horse Beach,White Horse Beach,MA,Massachusetts,Plymouth
+Walpole,Walpole,MA,Massachusetts,Norfolk
+Barre,Barre,MA,Massachusetts,Worcester
+North Amherst,North Amherst,MA,Massachusetts,Hampshire
+Sturbridge,Sturbridge,MA,Massachusetts,Worcester
+Minot,Minot,MA,Massachusetts,Plymouth
+Boxford,Boxford,MA,Massachusetts,Essex
+Brookfield,Brookfield,MA,Massachusetts,Worcester
+Shelburne Falls,Shelburne Falls,MA,Massachusetts,Franklin
+West Springfield,West Springfield,MA,Massachusetts,Hampden
+Milford,Milford,MA,Massachusetts,Worcester
+Sandwich,Sandwich,MA,Massachusetts,Barnstable
+South Westport,South Westport,MA,Massachusetts,Bristol
+North Lakeville,North Lakeville,MA,Massachusetts,Plymouth
+White Island Shores,White Island Shores,MA,Massachusetts,Plymouth
+Hull,Hull,MA,Massachusetts,Plymouth
+Falmouth,Falmouth,MA,Massachusetts,Barnstable
+Marlborough,Marlborough,MA,Massachusetts,Middlesex
+Ocean Grove,Ocean Grove,MA,Massachusetts,Bristol
+Belchertown,Belchertown,MA,Massachusetts,Hampshire
+Seconsett Island,Seconsett Island,MA,Massachusetts,Barnstable
+Athol,Athol,MA,Massachusetts,Worcester
+Brookline,Brookline,MA,Massachusetts,Norfolk
+Quincy,Quincy,MA,Massachusetts,Norfolk
+Westborough,Westborough,MA,Massachusetts,Worcester
+West Hanover,West Hanover,MA,Massachusetts,Plymouth
+North Eastham,North Eastham,MA,Massachusetts,Barnstable
+Yarmouth Port,Yarmouth Port,MA,Massachusetts,Barnstable
+Shirley,Shirley,MA,Massachusetts,Middlesex
+Monomoscoy Island,Monomoscoy Island,MA,Massachusetts,Barnstable
+Glenridge,Glenridge,MA,Massachusetts,Norfolk
+Chicopee,Chicopee,MA,Massachusetts,Hampden
+North Chelmsford,North Chelmsford,MA,Massachusetts,Middlesex
+Liberty Plain,Liberty Plain,MA,Massachusetts,Plymouth
+Holland,Holland,MA,Massachusetts,Hampden
+Marshfield Hills,Marshfield Hills,MA,Massachusetts,Plymouth
+Beechwood,Beechwood,MA,Massachusetts,Norfolk
+Petersham,Petersham,MA,Massachusetts,Worcester
+Lexington,Lexington,MA,Massachusetts,Middlesex
+Swampscott,Swampscott,MA,Massachusetts,Essex
+Dedham,Dedham,MA,Massachusetts,Norfolk
+Bellingham,Bellingham,MA,Massachusetts,Norfolk
+Northfield,Northfield,MA,Massachusetts,Franklin
+Buzzards Bay,Buzzards Bay,MA,Massachusetts,Barnstable
+Webster,Webster,MA,Massachusetts,Worcester
+Waltham,Waltham,MA,Massachusetts,Middlesex
+Medford,Medford,MA,Massachusetts,Middlesex
+Gloucester,Gloucester,MA,Massachusetts,Essex
+Provincetown,Provincetown,MA,Massachusetts,Barnstable
+Boston,Boston,MA,Massachusetts,Suffolk
+West Yarmouth,West Yarmouth,MA,Massachusetts,Barnstable
+Southville,Southville,MA,Massachusetts,Worcester
+Duxbury,Duxbury,MA,Massachusetts,Plymouth
+Topsfield,Topsfield,MA,Massachusetts,Essex
+Stoneham,Stoneham,MA,Massachusetts,Middlesex
+Danvers,Danvers,MA,Massachusetts,Essex
+Holbrook,Holbrook,MA,Massachusetts,Norfolk
+Groton,Groton,MA,Massachusetts,Middlesex
+Belmont,Belmont,MA,Massachusetts,Middlesex
+Andover,Andover,MA,Massachusetts,Essex
+Turners Falls,Turners Falls,MA,Massachusetts,Franklin
+Popponesset Island,Popponesset Island,MA,Massachusetts,Barnstable
+Haverhill,Haverhill,MA,Massachusetts,Essex
+Hayden Row,Hayden Row,MA,Massachusetts,Middlesex
+Rockport,Rockport,MA,Massachusetts,Essex
+North Falmouth,North Falmouth,MA,Massachusetts,Barnstable
+West Wareham,West Wareham,MA,Massachusetts,Plymouth
+Milton,Milton,MA,Massachusetts,Norfolk
+West Dennis,West Dennis,MA,Massachusetts,Barnstable
+Warren,Warren,MA,Massachusetts,Worcester
+Newton,Newton,MA,Massachusetts,Middlesex
+East Walpole,East Walpole,MA,Massachusetts,Norfolk
+Winchester,Winchester,MA,Massachusetts,Middlesex
+Longmeadow,Longmeadow,MA,Massachusetts,Hampden
+Standish,Standish,MA,Massachusetts,Plymouth
+Ocean Bluff,Ocean Bluff,MA,Massachusetts,Plymouth
+Bridgewater,Bridgewater,MA,Massachusetts,Plymouth
+Highland Lake,Highland Lake,MA,Massachusetts,Norfolk
+Onset,Onset,MA,Massachusetts,Plymouth
+Pine Rest,Pine Rest,MA,Massachusetts,Middlesex
+Williamstown,Williamstown,MA,Massachusetts,Berkshire
+West Brookfield,West Brookfield,MA,Massachusetts,Worcester
+Burlington,Burlington,MA,Massachusetts,Middlesex
+Ayer,Ayer,MA,Massachusetts,Middlesex
+Orange,Orange,MA,Massachusetts,Franklin
+Somerset,Somerset,MA,Massachusetts,Bristol
+Reading,Reading,MA,Massachusetts,Middlesex
+Townsend,Townsend,MA,Massachusetts,Middlesex
+Seabrook,Seabrook,MA,Massachusetts,Barnstable
+Great Barrington,Great Barrington,MA,Massachusetts,Berkshire
+South Yarmouth,South Yarmouth,MA,Massachusetts,Barnstable
+Bondsville,Bondsville,MA,Massachusetts,Hampden
+Lee,Lee,MA,Massachusetts,Berkshire
+Pittsfield,Pittsfield,MA,Massachusetts,Berkshire
+South Dartmouth,South Dartmouth,MA,Massachusetts,Bristol
+West Boxford,West Boxford,MA,Massachusetts,Essex
+Everett,Everett,MA,Massachusetts,Middlesex
+Sagamore,Sagamore,MA,Massachusetts,Barnstable
+South Deerfield,South Deerfield,MA,Massachusetts,Franklin
+Easthampton,Easthampton,MA,Massachusetts,Hampshire
+Green Harbor,Green Harbor,MA,Massachusetts,Plymouth
+Salem,Salem,MA,Massachusetts,Essex
+Hyannis,Hyannis,MA,Massachusetts,Barnstable
+Brewster,Brewster,MA,Massachusetts,Barnstable
+Cochituate,Cochituate,MA,Massachusetts,Middlesex
+Ware,Ware,MA,Massachusetts,Hampshire
+Brockton,Brockton,MA,Massachusetts,Plymouth
+Vineyard Haven,Vineyard Haven,MA,Massachusetts,Dukes
+Pigeon Cove,Pigeon Cove,MA,Massachusetts,Essex
+Granby,Granby,MA,Massachusetts,Hampshire
+Barnstable,Barnstable,MA,Massachusetts,Barnstable
+Manchester-by-the-Sea,Manchester-by-the-Sea,MA,Massachusetts,Essex
+Bliss Corner,Bliss Corner,MA,Massachusetts,Bristol
+Harwich Port,Harwich Port,MA,Massachusetts,Barnstable
+Russell,Russell,MA,Massachusetts,Hampden
+Accord,Accord,MA,Massachusetts,Plymouth
+North Adams,North Adams,MA,Massachusetts,Berkshire
+South Acton,South Acton,MA,Massachusetts,Middlesex
+Watertown,Watertown,MA,Massachusetts,Middlesex
+Lynnfield,Lynnfield,MA,Massachusetts,Essex
+Cheshire,Cheshire,MA,Massachusetts,Berkshire
+Chester,Chester,MA,Massachusetts,Hampden
+Littleton Common,Littleton Common,MA,Massachusetts,Middlesex
+Dennis Port,Dennis Port,MA,Massachusetts,Barnstable
+West Acton,West Acton,MA,Massachusetts,Middlesex
+Westfield,Westfield,MA,Massachusetts,Hampden
+North Cohasset,North Cohasset,MA,Massachusetts,Norfolk
+Spencer,Spencer,MA,Massachusetts,Worcester
+North Marshfield,North Marshfield,MA,Massachusetts,Plymouth
+South Walpole,South Walpole,MA,Massachusetts,Norfolk
+South Dennis,South Dennis,MA,Massachusetts,Barnstable
+Cambridge,Cambridge,MA,Massachusetts,Middlesex
+Clinton,Clinton,MA,Massachusetts,Worcester
+Housatonic,Housatonic,MA,Massachusetts,Berkshire
+Cotuit,Cotuit,MA,Massachusetts,Barnstable
+North Brookfield,North Brookfield,MA,Massachusetts,Worcester
+Somerville,Somerville,MA,Massachusetts,Middlesex
+New Seabury,New Seabury,MA,Massachusetts,Barnstable
+Northampton,Northampton,MA,Massachusetts,Hampshire
+Hatfield,Hatfield,MA,Massachusetts,Hampshire
+South Ashburnham,South Ashburnham,MA,Massachusetts,Worcester
+Methuen,Methuen,MA,Massachusetts,Essex
+Holyoke,Holyoke,MA,Massachusetts,Hampden
+Silver Lake,Silver Lake,MA,Massachusetts,Middlesex
+North Pembroke,North Pembroke,MA,Massachusetts,Plymouth
+Brookville,Brookville,MA,Massachusetts,Norfolk
+Framingham,Framingham,MA,Massachusetts,Middlesex
+Hanover Center,Hanover Center,MA,Massachusetts,Plymouth
+Huntington,Huntington,MA,Massachusetts,Hampshire
+Wellesley,Wellesley,MA,Massachusetts,Norfolk
+Orleans,Orleans,MA,Massachusetts,Barnstable
+Essex,Essex,MA,Massachusetts,Essex
+Lenox,Lenox,MA,Massachusetts,Berkshire
+Forestdale,Forestdale,MA,Massachusetts,Barnstable
+Sharon,Sharon,MA,Massachusetts,Norfolk
+South Amherst,South Amherst,MA,Massachusetts,Hampshire
+Pine Lake,Pine Lake,MA,Massachusetts,Middlesex
+Foxborough,Foxborough,MA,Massachusetts,Norfolk
+Wamesit,Wamesit,MA,Massachusetts,Middlesex
+Shawsheen Village,Shawsheen Village,MA,Massachusetts,Essex
+Newburyport,Newburyport,MA,Massachusetts,Essex
+North Attleboro,North Attleboro,MA,Massachusetts,Bristol
+Chatham,Chatham,MA,Massachusetts,Barnstable
+Ipswich,Ipswich,MA,Massachusetts,Essex
+East Harwich,East Harwich,MA,Massachusetts,Barnstable
+Agawam,Agawam,MA,Massachusetts,Hampden
+Marshfield Center,Marshfield Center,MA,Massachusetts,Plymouth
+Rexhame,Rexhame,MA,Massachusetts,Plymouth
+Marstons Mills,Marstons Mills,MA,Massachusetts,Barnstable
+Fitchburg,Fitchburg,MA,Massachusetts,Worcester
+North Scituate,North Scituate,MA,Massachusetts,Plymouth
+Deerfield,Deerfield,MA,Massachusetts,Franklin
+Lawrence,Lawrence,MA,Massachusetts,Essex
+Fayville,Fayville,MA,Massachusetts,Worcester
+Nahant,Nahant,MA,Massachusetts,Essex
+Revere,Revere,MA,Massachusetts,Suffolk
+Abington,Abington,MA,Massachusetts,Plymouth
+East Brookfield,East Brookfield,MA,Massachusetts,Worcester
+Lunenburg,Lunenburg,MA,Massachusetts,Worcester
+Rowley,Rowley,MA,Massachusetts,Essex
+Hanson,Hanson,MA,Massachusetts,Plymouth
+Saugus,Saugus,MA,Massachusetts,Essex
+Dover,Dover,MA,Massachusetts,Norfolk
+Bourne,Bourne,MA,Massachusetts,Barnstable
+Needham,Needham,MA,Massachusetts,Norfolk
+North Truro,North Truro,MA,Massachusetts,Barnstable
+Greenbush,Greenbush,MA,Massachusetts,Plymouth
+New Bedford,New Bedford,MA,Massachusetts,Bristol
+Adams,Adams,MA,Massachusetts,Berkshire
+East Falmouth,East Falmouth,MA,Massachusetts,Barnstable
+Wilbraham,Wilbraham,MA,Massachusetts,Hampden
+North Plymouth,North Plymouth,MA,Massachusetts,Plymouth
+West Falmouth,West Falmouth,MA,Massachusetts,Barnstable
+North Wilmington,North Wilmington,MA,Massachusetts,Middlesex
+Franklin,Franklin,MA,Massachusetts,Norfolk
+Edgartown,Edgartown,MA,Massachusetts,Dukes
+Beverly,Beverly,MA,Massachusetts,Essex
+Rutland,Rutland,MA,Massachusetts,Worcester
+Scituate,Scituate,MA,Massachusetts,Plymouth
+Woburn,Woburn,MA,Massachusetts,Middlesex
+Chelsea,Chelsea,MA,Massachusetts,Suffolk
+Siasconset,Siasconset,MA,Massachusetts,Nantucket
+North Bellingham,North Bellingham,MA,Massachusetts,Norfolk
+East Dennis,East Dennis,MA,Massachusetts,Barnstable
+Woodville,Woodville,MA,Massachusetts,Middlesex
+East Sandwich,East Sandwich,MA,Massachusetts,Barnstable
+Hingham,Hingham,MA,Massachusetts,Plymouth
+North Hanover,North Hanover,MA,Massachusetts,Plymouth
+Humarock,Humarock,MA,Massachusetts,Plymouth
+Worcester,Worcester,MA,Massachusetts,Worcester
+Egypt,Egypt,MA,Massachusetts,Plymouth
+Pocasset,Pocasset,MA,Massachusetts,Barnstable
+Assinippi,Assinippi,MA,Massachusetts,Plymouth
+Caryville,Caryville,MA,Massachusetts,Norfolk
+West Chatham,West Chatham,MA,Massachusetts,Barnstable
+Melrose,Melrose,MA,Massachusetts,Middlesex
+Centerville,Centerville,MA,Massachusetts,Barnstable
+Forge Village,Forge Village,MA,Massachusetts,Middlesex
+Nutting Lake,Nutting Lake,MA,Massachusetts,Middlesex
+Hopedale,Hopedale,MA,Massachusetts,Worcester
+Popponesset,Popponesset,MA,Massachusetts,Barnstable
+Nabnasset,Nabnasset,MA,Massachusetts,Middlesex
+Maynard,Maynard,MA,Massachusetts,Middlesex
+Islington,Islington,MA,Massachusetts,Norfolk
+West Medway,West Medway,MA,Massachusetts,Norfolk
+Monument Beach,Monument Beach,MA,Massachusetts,Barnstable
+Hopkinton,Hopkinton,MA,Massachusetts,Middlesex
+Hudson,Hudson,MA,Massachusetts,Middlesex
+Kingston,Kingston,MA,Massachusetts,Plymouth
+Shore Acres,Shore Acres,MA,Massachusetts,Plymouth
+Peabody,Peabody,MA,Massachusetts,Essex
+Rockville,Rockville,MA,Massachusetts,Norfolk
+Millers Falls,Millers Falls,MA,Massachusetts,Franklin
+Northborough,Northborough,MA,Massachusetts,Worcester
+Springfield,Springfield,MA,Massachusetts,Hampden
+Norwood,Norwood,MA,Massachusetts,Norfolk
+Lowell,Lowell,MA,Massachusetts,Middlesex
+Winchendon,Winchendon,MA,Massachusetts,Worcester
+Leominster,Leominster,MA,Massachusetts,Worcester
+Marshfield,Marshfield,MA,Massachusetts,Plymouth
+Harding,Harding,MA,Massachusetts,Norfolk
+Brant Rock,Brant Rock,MA,Massachusetts,Plymouth
+Gardner,Gardner,MA,Massachusetts,Worcester
+Smith Mills,Smith Mills,MA,Massachusetts,Bristol
+Fiskdale,Fiskdale,MA,Massachusetts,Worcester
+South Chelmsford,South Chelmsford,MA,Massachusetts,Middlesex
+Ballardvale,Ballardvale,MA,Massachusetts,Essex
+Oxford,Oxford,MA,Massachusetts,Worcester
+Weweantic,Weweantic,MA,Massachusetts,Plymouth
+North Westport,North Westport,MA,Massachusetts,Bristol
+South Lancaster,South Lancaster,MA,Massachusetts,Worcester
+Malden,Malden,MA,Massachusetts,Middlesex
+Whitinsville,Whitinsville,MA,Massachusetts,Worcester
+Lynn,Lynn,MA,Massachusetts,Essex
+East Douglas,East Douglas,MA,Massachusetts,Worcester
+North Tewksbury,North Tewksbury,MA,Massachusetts,Middlesex
+Attleboro,Attleboro,MA,Massachusetts,Bristol
+North Abington,North Abington,MA,Massachusetts,Plymouth
+Wareham Center,Wareham Center,MA,Massachusetts,Plymouth
+Still River,Still River,MA,Massachusetts,Worcester
+Wilmington,Wilmington,MA,Massachusetts,Middlesex
+Medfield,Medfield,MA,Massachusetts,Norfolk
+Wakefield,Wakefield,MA,Massachusetts,Middlesex
+Plymouth,Plymouth,MA,Massachusetts,Plymouth
+Amherst Center,Amherst Center,MA,Massachusetts,Hampshire
+River Pines,River Pines,MA,Massachusetts,Middlesex
+Mashpee Neck,Mashpee Neck,MA,Massachusetts,Barnstable
+Black Rock,Black Rock,MA,Massachusetts,Norfolk
+Osterville,Osterville,MA,Massachusetts,Barnstable
+Madaket,Madaket,MA,Massachusetts,Nantucket
+Blandford,Blandford,MA,Massachusetts,Hampden
+West Barnstable,West Barnstable,MA,Massachusetts,Barnstable
+North Seekonk,North Seekonk,MA,Massachusetts,Bristol
+Fall River,Fall River,MA,Massachusetts,Bristol
+Taunton,Taunton,MA,Massachusetts,Bristol
+Randolph,Randolph,MA,Massachusetts,Norfolk
+Gleasondale,Gleasondale,MA,Massachusetts,Middlesex
+Marblehead,Marblehead,MA,Massachusetts,Essex
+Teaticket,Teaticket,MA,Massachusetts,Barnstable
+West Upton,West Upton,MA,Massachusetts,Worcester
+Graniteville,Graniteville,MA,Massachusetts,Middlesex
+South Duxbury,South Duxbury,MA,Massachusetts,Plymouth
+Kent Park,Kent Park,MA,Massachusetts,Plymouth
+Cordaville,Cordaville,MA,Massachusetts,Worcester
+Nantucket,Nantucket,MA,Massachusetts,Nantucket
+Salisbury,Salisbury,MA,Massachusetts,Essex
+Pinehurst,Pinehurst,MA,Massachusetts,Middlesex
+Dennis,Dennis,MA,Massachusetts,Barnstable
+East Pepperell,East Pepperell,MA,Massachusetts,Middlesex
+West Concord,West Concord,MA,Massachusetts,Middlesex
+Clicquot,Clicquot,MA,Massachusetts,Norfolk
+North Billerica,North Billerica,MA,Massachusetts,Middlesex
